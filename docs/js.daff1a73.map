@@ -1,0 +1,1 @@
+{"version":3,"sources":["js\\index.js"],"names":[],"mappings":";;;;;AAAA;;AACA","file":"js.daff1a73.map","sourceRoot":"..\\src","sourcesContent":["import 'papercss/dist/paper.css';\r\nimport '../scss/index.scss';\r\n"]}
