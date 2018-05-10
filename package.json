@@ -1,7 +1,7 @@
 {
-  "name": "parcel-boilerplate",
+  "name": "css-wish-card",
   "version": "1.0.0",
-  "description": "A simple project boilerplate with Parcel web app bundler",
+  "description": "A wishing fountain.",
   "main": "index.js",
   "scripts": {
     "start": "parcel ./src/index.html --open",
@@ -11,21 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alekpentchev/parcel-boilerplate.git"
+    "url": "git+https://github.com/explooosion/css-wish-card.git"
   },
   "keywords": [
-    "webapp",
-    "parcel",
-    "js",
     "css",
-    "html"
+    "scss",
+    "animation"
   ],
-  "author": "Aleksander Pentchev",
-  "license": "ISC",
+  "author": "Robby",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alekpentchev/parcel-boilerplate/issues"
+    "url": "https://github.com/explooosion/css-wish-card/issues"
   },
-  "homepage": "https://github.com/alekpentchev/parcel-boilerplate#readme",
+  "homepage": "https://github.com/explooosion/css-wish-card#readme",
   "devDependencies": {
     "babel-preset-env": "^1.6.1",
     "eslint": "^4.19.1",
